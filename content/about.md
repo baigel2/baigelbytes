@@ -6,8 +6,9 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Adnan Baig"
 +++
 
-Hi, I'm Adnan. 
+Hi, 
 
+I'm Adnan. 
 
 I hate the way websites and blogs for too long have been more add than material.
 
