@@ -201,7 +201,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "quotes"
     name       = "Quotes"
-    url        = "Quotes/"
+    url        = "Quotes.md/"
     
 #  [[menu.main]]
 #   identifier = "quotes"
