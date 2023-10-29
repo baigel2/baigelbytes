@@ -188,6 +188,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
+
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
@@ -198,10 +199,27 @@ disableHugoGeneratorInject = false
     name       = "Poems"
     url        = "poems/"
 
+
   [[menu.main]]
     identifier = "quotes"
     name       = "Quotes"
-    url        = "Quotes.md/"
+    url        = "quotes/"
+
+
+
+
+
+
+
+
+
+
+#  [[menu.main]]
+#    identifier = "quotes"
+#    name       = "Quotes"
+#    url        = "Quotes/"
+
+
     
 #  [[menu.main]]
 #   identifier = "quotes"
