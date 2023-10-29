@@ -1,3 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Baigel Bytes 2'
+theme = 'hugo-theme-hello-friend'
+
