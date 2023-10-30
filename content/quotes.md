@@ -5,8 +5,9 @@ date: 2023-10-21
 
 *Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.*
 
+&nbsp;
 
-
+> **“Virtue lies in our power, and similarly so does vice; because where it is in our power to act, it is also in our power not to act.”** - Aristotle
 
 &nbsp;
 
