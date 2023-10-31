@@ -72,12 +72,14 @@ Later in this series I'll be exploring the nature of reality and how we percieve
 
 
 
+
+&nbsp;
+
 ---
 
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.com) or below.
 
-Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
-
-If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes2@gmail.com
 
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
@@ -86,4 +88,4 @@ If you'd like to support my work feel free to share my posts or website on socia
 
 [*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
 
-[*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)
+[*Gmail:* baigelbytes2@gmail.com](baigelbytes2@gmail.com)

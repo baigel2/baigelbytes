@@ -77,7 +77,7 @@ So if I had to choose determinism, I'd be more likely to choose soft determinism
 
 Whilst I do enjoy exploring philosophical topics such as this, I'm not actually trained in philosophy. In fact really, the only academic qualification I can jestfully attribute to myself is "Some random idiot that gets curious about stuff" XD.
 
-So, to give a professional opinion, here's a video by Cosmic Skeptic a youtuber and philosopher I'm guessing you might have heard of, explaining the idea that free will is likely an illusion. It's a little be scary to be honest:
+So, to give a professional opinion, here's a video by Cosmic Skeptic a youtuber and philosopher I'm guessing you might have heard of, explaining the idea that free will is likely an illusion. It's a little bit scary to be honest:
 
 [https://youtu.be/OwaXqep-bpk](https://youtu.be/OwaXqep-bpk)
 
@@ -85,12 +85,14 @@ So, to give a professional opinion, here's a video by Cosmic Skeptic a youtuber 
 
 
 
+
+&nbsp;
+
 ---
 
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.com) or below.
 
-Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
-
-If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes2@gmail.com
 
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
@@ -99,4 +101,4 @@ If you'd like to support my work feel free to share my posts or website on socia
 
 [*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
 
-[*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)
+[*Gmail:* baigelbytes2@gmail.com](baigelbytes2@gmail.com)

@@ -98,16 +98,18 @@ It's habitual and that's what I need to change. Today, it was the Buddha in the 
 
 ## Conclusion, I DID IT!
 
-I did it! A one day water fast might be small potatoes for some, but for me it's progress and all progress should be celebrated. I finally fell like I'm starting to learn how to hold the reigns of my life and take control.
+I did it! A one day water fast might be small potatoes for some, but for me it's progress and all progress should be celebrated. I finally feel like I'm starting to learn how to hold the reigns of my life and take control.
 
 It'll never quite be a straight line but like I mentioned before, so long as I keep trying everyday I'll gain more wins than losses and that's how progress is made and battles are won!
 
+
+&nbsp;
+
 ---
 
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.com) or below.
 
-Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
-
-If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes2@gmail.com
 
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
@@ -116,4 +118,4 @@ If you'd like to support my work feel free to share my posts or website on socia
 
 [*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
 
-[*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)
+[*Gmail:* baigelbytes2@gmail.com](baigelbytes2@gmail.com)

@@ -13,11 +13,9 @@ series = ["My Poetry."]
   name = "Adnan Baig"
 +++
 
-Adnan 
-
 I call upon your help O Lord, to guide me through this day.
 
-For without you I surely cannot, will not find my way.
+For without you I surely cannot, will not, find my way.
 
 Tis you that Lights The Way O Lord,
 

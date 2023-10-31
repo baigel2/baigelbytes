@@ -16,13 +16,13 @@ series = ["100 Days"]
 
 I have no right to be complacent. I have no right to be ungrateful.
 
-I only have the right to freedom but freedom isn't free.
+I only have the right to freedom, but freedom isn't free.
 
 Freedom is to be so grateful that every second is lived not wasted.
 
-Freedom is to take responsibility so the ones you love can live not waste away.
+Freedom is responsibility so the ones you love can live not waste away.
 
-Freedom is ownership through discipline not entitlement and victimhood!
+Freedom is ownership through discipline not entitlement or victimhood!
 
 Freedom is to be, your very greatest you.
 

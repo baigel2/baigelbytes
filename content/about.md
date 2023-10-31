@@ -40,14 +40,26 @@ Links to my socials are just below and can also be found at the bottom of every 
 
 If you want daily motivation through example then head on over now.
 
+
+## My first daily posts on socials:
+
+Each morning I post my mini workout along with a motivational quote to start the day off. In the 2nd image of the post you'll see something like "P1 20, P2 20/40, P3 20/60." below the day and date. This is for convenience on my part but here's what it means.
+
+* P = Push ups, x = set number. Therefore: P1 = my 1st set of push ups in the workout.
+
+* xx = number of reps in the first set.
+
+* xx/xx = number of reps this set/total number of reps for this (mini) workout so far.
+
+The purpose of this workout is mainly just to help me wake my body and mind up and it's immediately followed by a mandatory cold shower just to give a little boost. No need for a coffee after that!
+
+
 &nbsp;
 
 ---
 
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes2@gmail.com
 
-
-<br>
-<br>
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
 
@@ -55,14 +67,5 @@ If you want daily motivation through example then head on over now.
 
 [*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
 
-[*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)
-
-
-<br>
-<br>
-<br>
-
-<!---Also, I'm a certified life coach :)
-
-![My accredited life coaching certificate!](/cert_mab.png 'My accredited life coaching certificate!')--->
+[*Gmail:* baigelbytes2@gmail.com](baigelbytes2@gmail.com)
 

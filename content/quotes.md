@@ -7,6 +7,10 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“Waste no more time arguing about what a good man should be. Be one.”** - Marcus Aurelius
+
+&nbsp;
+
 > **“Virtue lies in our power, and similarly so does vice; because where it is in our power to act, it is also in our power not to act.”** - Aristotle
 
 &nbsp;
