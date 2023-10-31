@@ -1,4 +1,4 @@
-baseURL = "https://baigelbytes.onrender.com/"
+baseURL = "https://baigelbytes.com/"
 title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
