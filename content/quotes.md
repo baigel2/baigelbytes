@@ -7,6 +7,10 @@ date: 2023-10-21
 
 &nbsp;
 
+> **"If you find no one to support you on the spiritual path, walk alone."** - Buddha
+
+&nbsp;
+
 > **“Waste no more time arguing about what a good man should be. Be one.”** - Marcus Aurelius
 
 &nbsp;
