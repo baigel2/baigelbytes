@@ -11,6 +11,30 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“It is better to live your own destiny imperfectly then to live an imitation of somebody else's life with perfection.”** - Bhagavad Gita
+
+&nbsp;
+
+> **“There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, one should abandon all three.”** - Bhagavad Gita 
+
+&nbsp;
+
+> **“Even monkeys fall from trees.”**  - Japanese Proverb
+
+&nbsp;
+
+> **“Examine what is said, not who is speaking.”** - African Proverb
+
+&nbsp;
+
+> ** “Knowledge is a garden. If it isn’t cultivated, you can’t harvest it.”** - African Proverb
+
+&nbsp;
+
+> **“No shortcuts exist to the top of a palm tree.”** - African Proverb
+
+&nbsp;
+
 > **“Waste no more time arguing about what a good man should be. Be one.”** - Marcus Aurelius
 
 &nbsp;
