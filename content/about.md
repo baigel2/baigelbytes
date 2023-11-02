@@ -18,6 +18,9 @@ I work in retail and then outside of work I work on me. On living and learning, 
 
 I write about literally anything that interests me including science, religion, self help & improvment, mental health, and as new topics take my interest moving forward you will see them represented in my posts.
 
+## Publishing Schedule:
+
+I will aim to publish one article a month, one poem a week and one quote a day though I will upload the weeks quotes at the begining of each week.
 
 ## Quotes & Poems:
 
