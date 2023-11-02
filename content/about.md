@@ -20,7 +20,7 @@ I write about literally anything that interests me including science, religion, 
 
 ## Publishing Schedule:
 
-I will aim to publish one article a month, one poem a week and one quote a day though I will upload the weeks quotes at the begining of each week.
+I will aim to publish one article a month, one poem a week and at the beginning of each week I will release 7 motivational quotes, 1 for each day of the week. 
 
 ## Quotes & Poems:
 
