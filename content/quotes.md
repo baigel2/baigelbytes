@@ -27,7 +27,7 @@ date: 2023-10-21
 
 &nbsp;
 
-> ** “Knowledge is a garden. If it isn’t cultivated, you can’t harvest it.”** - African Proverb
+> **“Knowledge is a garden. If it isn’t cultivated, you can’t harvest it.”** - African Proverb
 
 &nbsp;
 
