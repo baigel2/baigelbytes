@@ -7,6 +7,34 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“Dripping water can penetrate the stone.”** - Chinese Proverb
+
+&nbsp;
+
+> **"If you have overcome your inclination and not been overcome by it, you have reason to rejoice."** - Titus Maccius Plautus
+
+&nbsp;
+
+> **“A harmonious family leads to prosperity in everything.”** - Chinese Proverb
+
+&nbsp;
+
+> **"An angry man is again angry with himself when he returns to reason."** - Publilius Syrus
+
+&nbsp;
+
+> **“There is nothing difficult in the world as long as you set your mind to it.”** - Chinese Proverb
+
+&nbsp;
+
+> **“Wake early if you want another man’s life or land. No lamb for the lazy wolf. No battle’s won in bed.” ** - The Havamal
+
+&nbsp;
+
+> **“Better to be a broken piece of jade than an intact piece of pottery.”** - Chinese Proverb
+
+&nbsp;
+
 > **"If you find no one to support you on the spiritual path, walk alone."** - Buddha
 
 &nbsp;
