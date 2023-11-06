@@ -27,7 +27,7 @@ date: 2023-10-21
 
 &nbsp;
 
-> **“Wake early if you want another man’s life or land. No lamb for the lazy wolf. No battle’s won in bed.” ** - The Havamal
+> **“Wake early if you want another man’s life or land. No lamb for the lazy wolf. No battle’s won in bed.”** - The Havamal
 
 &nbsp;
 
