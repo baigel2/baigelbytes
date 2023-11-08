@@ -1,5 +1,5 @@
 baseURL = "https://baigelbytes.com/"
-title   = "Baigel Bytes"
+title   = "Baigel bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
