@@ -7,6 +7,52 @@ date: 2023-10-21
 
 &nbsp;
 
+> **"People pay you by the value you provide them.**
+> **God gives based on how hard you work.**
+> **Combine the two with gratitude and you have a winning formula."**
+
+&nbsp;
+
+> "**Control your anger. If you hold anger toward others, they have control over you.Your opponent can dominate and defeat you if you allow him to get you irritated."** - Myamoto Musashi
+
+&nbsp;
+
+> **"It may seem difficult at first, but everything is difficult at first."** - Miyamoto Musashi
+
+&nbsp;
+
+> **“There is nothing like a dream to create the future.”** - Victor Hugo
+
+&nbsp;
+
+> **"The sage is ready to use all situations and doesn't waste anything. This is called embodying the light."** - Lao Tzu
+
+&nbsp;
+
+> **"Most powerful is he who has himself in his own power."** - Seneca
+
+&nbsp;
+
+> **"To rank the effort above the prize may be called love."** - Confucius
+
+&nbsp;
+
+> **"When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds."** - Patanjali
+
+&nbsp;
+
+> **"Life is an unfoldment, and the further we travel the more truth we can comprehend."** - Hypatia of Alexandria, lived circa 400 CE in Alexandria, Egypt.
+
+&nbsp;
+
+> **"It's not what happens to you, but how you react to it that matters."** - Epictetus
+
+&nbsp;
+
+> **“A house divided cannot stand.”** - Arabic Proverb
+
+&nbsp;
+
 > **“Dripping water can penetrate the stone.”** - Chinese Proverb
 
 &nbsp;
