@@ -5,6 +5,57 @@ date: 2023-10-21
 
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
+
+
+
+
+&nbsp;
+
+> **"Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that."** - Martin Luther King Jr
+
+&nbsp;
+
+> **"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."** - Oprah Winfrey
+
+&nbsp;
+
+> **"Your time is limited so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking."** - Steve Jobs
+
+&nbsp;
+
+> **"The future belongs to those who believe in the beauty of their dreams."** - Eleanor Roosevelt
+
+&nbsp;
+
+> **"Aint nuttin' but a peanut."** - Ronnie Coleman
+
+&nbsp;
+
+**"Stop being a fucking victim! Take ownership, responsibility and put some fucking work in! You'll feel better when you do better not the other way around!"**
+
+&nbsp;
+
+> **"The person with the biggest dreams is more powerful than the person with all the answers."** - Kai Greene 
+
+&nbsp;
+
+> **"I refuse to believe today will be just another day in my life.**
+> **All that I am.**
+> **All that I will become will be written through my thoughts and my actions.**
+> **I've conditioned my mind.**
+> **Trained my body.**
+> **Sacrificed my soul.**
+> **There will be obstacles.**
+> **Doubters.**
+> **Mistakes.**
+> **But nothing comes to those who wait.**
+> **Every champion was once a contender that refused to give up."**
+> - Kai Greene 
+
+&nbsp;
+
+> **"Each workout is like a brick in a building, and every time you go in there and do a half-ass workout, you're not laying a brick down. Somebody else is."** - Dorian Yates
+
 &nbsp;
 
 > **"People pay you by the value you provide them.**
