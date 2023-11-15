@@ -31,7 +31,7 @@ date: 2023-10-21
 
 &nbsp;
 
-**"Stop being a fucking victim! Take ownership, responsibility and put some fucking work in! You'll feel better when you do better not the other way around!"**
+> **"Stop being a fucking victim! Take ownership, responsibility and put some fucking work in! You'll feel better when you do better not the other way around!"**
 
 &nbsp;
 
