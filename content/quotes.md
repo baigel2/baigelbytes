@@ -6,8 +6,9 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+&nbsp;
 
-
+> **"Fall down seven times, get up eight."** - Japanese Proverb
 
 &nbsp;
 
