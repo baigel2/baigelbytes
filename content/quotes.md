@@ -8,6 +8,18 @@ date: 2023-10-21
 
 &nbsp;
 
+> **"The man who takes more pride in the steps to attain the result than the result itself cannot be stopped."** - Wes Watson
+
+&nbsp;
+
+> **Not every legend is a myth, some are flesh and blood. Some legends walk among us, but they aren't born, they're built. Legends are made from iron & sweat, mind and muscle, blood and vision and victory."** - Arnold Schwarzenegger
+
+&nbsp;
+
+> **"The work truly instills the worth. The only thing that gives you confidence is the work you put in. Your self-worth is directly correlated to your self-investment."** - Wes Watson
+
+&nbsp;
+
 > **"Fall down seven times, get up eight."** - Japanese Proverb
 
 &nbsp;
