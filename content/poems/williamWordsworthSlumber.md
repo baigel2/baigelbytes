@@ -1,5 +1,5 @@
 +++
-title = "A Slumber did my Spirit Seal."
+title = "A Slumber did my Spirit Seal - William Wordsworth."
 
 description = ""
 type = ["posts","post"]
@@ -8,10 +8,10 @@ tags = [
     "William Wordsworth.",
     
 ]
-date = "2023-11-17"
+date = "2023-11-19"
 series = ["OldPoetry/English."]
 [ author ]
-  name = "Adnan Baig"
+  name = "William Wordsworth"
 +++
 
 
