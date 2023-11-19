@@ -8,6 +8,70 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“Learn as if you will live forever, live like you will die tomorrow.”** — Mahatma Gandhi
+
+&nbsp;
+ 
+> **“Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.”** — Mark Twain
+
+&nbsp;
+
+> **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”** — Eleanor Roosevelt
+
+&nbsp;
+
+> **“When you change your thoughts, remember to also change your world.”** — Norman Vincent Peale
+
+&nbsp;
+
+> **"It is better to fail in originality than to succeed in imitation."** — Herman Melville
+
+&nbsp;
+
+> **“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”** —Dale Carnegie
+
+&nbsp;
+
+> **“Success is getting what you want, happiness is wanting what you get.”** ―W. P. Kinsella
+
+&nbsp;
+
+> **“If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.”** — Steve Jobs
+
+&nbsp;
+
+> **“Experience is a hard teacher because she gives the test first, the lesson afterwards.”** ―Vernon Sanders Law
+
+&nbsp;
+
+> **“I’m a greater believer in luck, and I find the harder I work the more I have of it.”** — Thomas Jefferson
+
+&nbsp;
+
+> **“He who conquers himself is the mightiest warrior.”** — Confucius
+
+&nbsp;
+
+> **“Try not to become a man of success, but rather become a man of value.”** – Albert Einstein
+
+&nbsp;
+
+> **“You've got to get up every morning with determination if you're going to go to bed with satisfaction.”** — George Lorimer
+
+&nbsp;
+
+> **“Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.”** — Augustine Og Mandino
+
+&nbsp;
+
+> **“When I believe in something, I’m like a dog with a bone.”** — Melissa McCarthy
+
+&nbsp;
+
+> **“And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.”** — Anaïs Nin
+
+&nbsp;
+
 > **"The man who takes more pride in the steps to attain the result than the result itself cannot be stopped."** - Wes Watson
 
 &nbsp;
