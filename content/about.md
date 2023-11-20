@@ -6,6 +6,11 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Adnan Baig"
 +++
 
+
+![Dare to dream!](/duck.png 'Dare to Dream!')
+
+
+
 Hi, 
 
 I'm Adnan. 
