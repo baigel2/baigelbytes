@@ -8,6 +8,94 @@ date: 2023-10-21
 
 &nbsp;
 
+> **"IT IS IMPERATIVE TO MASTER THE PRINCIPLES OF THE ART OF WAR AND LEARN TO BE UNMOVED IN MIND EVEN IN THE HEAT OF THE BATTLE."** - Miyamoto Musashi
+
+&nbsp;
+ 
+> **"Resentment is like drinking poison and then hoping it will kill your enemies."** - Nelson Mandela
+
+&nbsp;
+
+> **"Everyone is a genius at something but if you judge a fish by it's ability to climb a tree it'll live out it's whole life thinking it's a fool.”** — Albert Einstein
+
+&nbsp;
+
+> **"It is not our diversity which divides us; it is not our ethnicity, or religion or culture that divides us. Since we have achieved our freedom, there can only be one division amongst us: between those who cherish democracy and those who do not."** - Nelson Mandela
+
+&nbsp;
+
+> **"For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others."** - Nelson Mandela
+
+&nbsp;
+
+> **"True victory does not come from defeating an enemy, true victory comes from giving love and changing an enemies heart."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"A warrior's mission is to foster the success of others."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"All the principles of heaven and earth are living inside you."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"In true budo there is no enemy or opponent. True budo is to become one with the universe, not train to become powerful or to throw down some opponent. Rather we train in hopes of being of some use, however small our role may be, in the task of bringing peace to mankind around the world."** - Morihei Ueshiba 
+
+&nbsp;
+
+> **"If you do not overcome your tendency to give up easily, your life leads to nothing."** - Mas Oyama 
+
+&nbsp;
+
+> **"One must try, everyday, to expand one's limits."** - Mas Oyama 
+
+&nbsp;
+
+> **"One becomes a beginner after 1000 days of training. One becomes a master after 10,000 days of practice."** - Mas Oyama 
+
+&nbsp;
+
+> **"Behind each triumph are new peaks to be conquered."** - Mas Oyama 
+
+&nbsp;
+
+> **"The path of Martial Arts begins and ends with courtesy. So be genuinely polite on every occasion."** - Mas Oyama
+
+&nbsp;
+
+> **"A human life gains lustre and strength only when it is polished and tempered."** - Mas Oyama 
+
+&nbsp;
+
+> **"It is not important to be better than someone else, but to be better than yesterday."** - Kano Jigoro 
+
+&nbsp;
+
+> **"If there is effort, there is always accomplishment."** - Kano Jigoro 
+
+&nbsp;
+
+> **"Face your fear, empty yourself, trust your own voice, let go of control, have faith in outcomes, connect with a larger purpose, derive meaning from the struggle."** - Kano Jigoro 
+
+&nbsp;
+
+> **"Nothing under the sun is greater than education. By educating one person and sending him into the society of his generation, we make a contribution extending a hundred generations to come."** - Kano Jigoro 
+
+&nbsp;
+
+> **"Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe."** - Proverbs 29:25 
+
+&nbsp;
+
 > **“Learn as if you will live forever, live like you will die tomorrow.”** — Mahatma Gandhi
 
 &nbsp;
