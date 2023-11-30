@@ -43,8 +43,11 @@ Captivate your imagination and learn from the records of history as you take thi
 
 
 Miyamoto Musashi. More than just a Samurai. He had his first duel at 13 years of age. In the Edo period - which Miyamoto was born in - boys were considered men at 15 years of age.
+
 Musashi would go on to win over 60 fights in his lifetime, many of them to the death. However, as we can't go around challenging people to mortal swords fights these days, I thought I'd focus on Miyamoto’s philosophies and the lessons that he learnt over the course of his life.
-Focus:
+
+## Focus:
+
 It’s one of the most important skills you can learn after discipline. In fact, it’s kind of a component of discipline on a microscopic scale. On a larger scale, discipline is being able to do what needs doing and avoiding what needs to be avoided regardless of how you feel.
 
 When it comes to the actual execution of that however, you’re going to need focus. Musashi’s philosophy on this might be summed up in just a word: simplify.
@@ -53,7 +56,7 @@ Simplify. Simplify. Simplify.
 
 Get rid of the clutter. In your routines, in your daily life, in your mind, thoughts and emotions. The more you can clear these things up the less interference you will have when you're trying to get the work done. You’ll be less distracted and that will automatically give you more focus.
 
-> **“Only focus on one thing at a time.”*
+> **“Only focus on one thing at a time.”**
 
 When he said this Miyamoto meant that we should not be pursuing more than one goal at a time because then you’ll end up being pulled in many different directions and as a result, you’ll make less progress.
 
