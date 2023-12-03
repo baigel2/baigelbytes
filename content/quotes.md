@@ -6,6 +6,105 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+
+
+
+
+
+
+
+&nbsp;
+
+> **“Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment."** - Jesus Christ
+
+&nbsp;
+ 
+> **“Be kind, for whenever kindness becomes part of something, it beautifies it. Whenever it is taken from something, it leaves it tarnished.”** - Prophet Muhammad
+
+&nbsp;
+
+> **"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened."** - Jesus Christ Matthew 7:7-8
+
+&nbsp;
+
+> **“The greatest jihad (struggle/striving) is to battle your own soul, to fight the evil within yourself.”** - Prophet Muhammad
+
+&nbsp;
+
+> **"Quiet the mind and the soul will speak."** - Buddha
+
+&nbsp;
+
+> **“A father gives nothing better than good education.”** - Prophet Muhammad 
+
+&nbsp;
+
+> **"Happiness will never come to those who fail to appreciate what they already have."** - Buddha
+
+&nbsp;
+
+> **"You don’t have a Soul. You are a soul. You have a body."** - Buddha
+
+&nbsp;
+
+> **"If you want to fly, give up everything that weighs you down."** - Buddha
+
+&nbsp;
+
+> **"Raise your words, not voice. It is rain that grows flowers, not thunder."** - Rumi
+
+&nbsp;
+
+> **"Don’t be satisfied with stories, how things have gone with others. Unfold your myth."** - Rumi
+
+&nbsp;
+
+> **“Seek knowledge from cradle to the grave.”** - Prophet Muhammad
+
+&nbsp;
+
+> **"Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. "Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?"** - Jesus Christ, Bible NIV 7
+
+&nbsp;
+
+> **"Set your life on fire. Seek those who fan your flames."** - Rumi
+
+&nbsp;
+
+> **"I am not this hair, I am not this skin, I am the soul that lives within."** - Rumi
+
+&nbsp;
+
+> **“A kind word is a form of charity.”** - Prophet Muhammad
+
+&nbsp;
+
+> **"Be full of sorrow, that you may become a hill of joy; weep, that you may break into laughter."** - Rumi
+
+&nbsp;
+
+> **"It’s your road, and yours alone, others may walk it with you, but no one can walk it for you."** - Rumi
+
+&nbsp;
+
+> **"You are not meant for crawling, so don’t. You have wings. Learn to use them and fly."** - Rumi
+
+&nbsp;
+
+> **"Patience with small details makes perfect a large work, like the universe."** - Rumi
+
+&nbsp;
+
+> **"“Happiness will never come to those who fail to appreciate what they already have.”"** - Buddha
+
+&nbsp;
+
+> **"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."** - Buddha 
+
+&nbsp;
+
+> **"When it hurts, observe. Life is trying to teach you something."** - Buddha 
+
 &nbsp;
 
 > **"IT IS IMPERATIVE TO MASTER THE PRINCIPLES OF THE ART OF WAR AND LEARN TO BE UNMOVED IN MIND EVEN IN THE HEAT OF THE BATTLE."** - Miyamoto Musashi
