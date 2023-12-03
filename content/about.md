@@ -13,7 +13,7 @@ aliases = ["about-us","about-hugo","contact"]
 
 Hi, 
 
-I'm Baigel Bytes. 
+I'm Adnan. 
 
 I hate the way websites and blogs for too long have been more add than material.
 
