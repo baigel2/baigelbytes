@@ -1,5 +1,5 @@
 +++
-title = "Only Breath - By Rumi"
+title = "Only Breath - Rumi"
 
 description = ""
 type = ["posts","post"]
