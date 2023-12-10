@@ -15,6 +15,98 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“Sever the ignorant doubt in your heart with the sword of self-knowledge. Observe your discipline. Arise."** - Bhagavad Gita
+
+&nbsp;
+ 
+> **“Always perform your duty efficiently and without attachment to the results, because by doing work without attachment one attains the Supreme.”** - Bhagavad Gita
+
+&nbsp;
+
+> **"Having hands and feet everywhere; having eyes, head, and face everywhere; having ears everywhere; the creator exists in the creation by pervading everything."** - Bhagavad Gita
+
+&nbsp;
+
+> **“On this path effort never goes to waste, and there is no failure. Even a little effort toward spiritual awareness will protect you from the greatest fear.”** - Bhagavad Gita
+
+&nbsp;
+
+> **"Work for work’s sake, not for yourself. Act but do not be attached to your actions. Be in the world, but not of it."** - Bhagavad Gita
+
+&nbsp;
+
+> **“Man cannot be judged by looks; seas cannot be measured by the cup.”** - Chinese Proverb
+
+&nbsp;
+
+> **Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, you cannot have an abundant crop without cultivation."** - Plato
+
+&nbsp;
+
+> **Even death is not to be feared by one who has lived wisely."** - Buddha
+
+&nbsp;
+
+> **"Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity."** - Buddha
+
+&nbsp;
+
+> **"If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow."** - Buddha
+
+&nbsp;
+
+> **Delight in meditation and solitude. Compose yourself, be happy. You are a seeker."** - Buddha
+
+&nbsp;
+
+> **“The art of living is more like wrestling than dancing.”** - Marcus Aurelius
+
+&nbsp;
+
+> **"Love is composed of a single soul inhabiting two bodies."** - Aristotle
+
+&nbsp;
+
+> **"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."** - Lao-Tzu
+
+&nbsp;
+
+> **"One word frees us of all the weight and pain in life, that word is Love."** - Sophocles
+
+&nbsp;
+
+> **"Prefer a loss to a dishonest gain: the one brings pain for a moment, the other for all time."** - Chilon of Sparta
+
+&nbsp;
+
+> **"Small opportunities are often the beginning of great enterprises"** - Demosthenes
+
+&nbsp;
+
+> **"They can conquer who believe they can."** - Virgil, Roman poet
+
+&nbsp;
+
+> **"People in their handling of affairs often fail when they are about to succeed. If one remains as careful at the end as he was at the beginning, there will be no failure"** - Lao-Tzu
+
+&nbsp;
+
+> **"Do not say a little in many words, but a great deal in few."** - Pythagoras
+
+&nbsp;
+
+> **"A room without books is like a body without a soul."** - Marcus Tullius Cicero	
+
+&nbsp;
+
+> **"Short is the joy that guilty pleasure brings."** - Euripides 
+
+&nbsp;
+
+> **"Without feelings of respect, what is there to distinguish men from beasts?"** - Confucius
+
+&nbsp;
+
 > **“Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment."** - Jesus Christ
 
 &nbsp;
