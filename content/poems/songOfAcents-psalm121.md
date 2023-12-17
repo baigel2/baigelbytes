@@ -8,7 +8,7 @@ tags = [
     "Psalm 121",
     
 ]
-date = "2023-17-12"
+date = "2023-12-17"
 series = ["Poetry/Bible."]
 [ author ]
   name = "Psalm 121"
