@@ -55,7 +55,9 @@ That’s what I’ll be focusing on in this post. The things that Jesus taught t
 
 ## Love, the highest of all virtues.
 
-*“Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. “But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you”* - (Matthew 5:43–44)
+*“Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.*
+
+*But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you” - (Matthew 5:43–44)*
 
 Nothing comes before Love. Nothing. Love is the highest, and sometimes the hardest of all virtues. Why was such an emphasis put on this, even to the extent of loving the very people who crucified Him?
 
@@ -84,10 +86,13 @@ That's what gives Christians the edge over all others. There's no way to be more
 ## The Golden Rule: Treating people how you would have them treat you.
 
 *“32 “If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 And if you do good to those who are
-good to you, what credit is that to you? Even sinners do that.
-34 And if you lend to those from whom you expect repayment, what credit is that> to you? Even sinners lend to sinners, expecting to be repaid in full.
-35 But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and wicked.
-36 Be merciful, just as your Father is merciful.”* - Luke 6:33
+*good to you, what credit is that to you? Even sinners do that.*
+
+*34 And if you lend to those from whom you expect repayment, what credit is that> to you? Even sinners lend to sinners, expecting to be repaid in full.*
+
+*35 But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and wicked.*
+
+*36 Be merciful, just as your Father is merciful.” - Luke 6:33*
 
 It’s very common these days, almost a societal requirement; to treat people how they treat you. But Ghandi wasn’t the only person who knew an eye for an eye mentality helps no one in the long run. When people treat others how they themselves would like to be treated, it forces people to think about others.
 
@@ -103,15 +108,21 @@ Jesus was often approached and questioned by the Rabbi’s of His time, often in
 
 Sometimes the most righteous action is the one that goes directly against the law.
 
-*“12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. 2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”
-3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his companions ate the consecrated bread—which was not lawful for them to do, but only for the priests. 5 Or haven’t you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent? 6 I tell you that something greater than the temple is here. 7 If you had known what these words mean, ‘I desire mercy, not sacrifice,’[a] you would not have condemned the innocent. 8 For the Son of Man is Lord of the Sabbath.”* – NIV Matthew 12
+*“12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. 2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”*
+
+*3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his companions ate the consecrated bread—which was not lawful for them to do, but only for the priests.
+
+*5 Or haven’t you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent? 6 I tell you that something greater than the temple is here.*
+
+*7 If you had known what these words mean, ‘I desire mercy, not sacrifice,’[a] you would not have condemned the innocent. 8 For the Son of Man is Lord of the Sabbath.” – NIV Matthew 12*
 
 It is a personal believe of mine that, more deeply than the writings in any holy book, God has written right and wrong into our very hearts and souls. The thing we call conscience, which let’s us know when we are or are not on the right track. I think the conscience is aligned with God and His will and living in alignment with that will help to make us better versions of ourselves.
  
 ## Look at yourself first before you judge others.
 
-*"Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
-And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?”* - Matthew 7 KJV
+*"Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.*
+
+*And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?” - Matthew 7 KJV*
 
 This is one lesson from the teachings of Jesus Christ that I will keep with me for the rest of my life. It’s easier read than practiced, however. Humans are so quick to judge these days especially online. But how you judge others often says quite a lot more about you than who you’re judging.
 
