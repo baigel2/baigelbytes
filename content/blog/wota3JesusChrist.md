@@ -85,7 +85,7 @@ That's what gives Christians the edge over all others. There's no way to be more
 
 ## The Golden Rule: Treating people how you would have them treat you.
 
-*“32 “If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 And if you do good to those who are
+*“32 “If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 And if you do good to those who are*
 *good to you, what credit is that to you? Even sinners do that.*
 
 *34 And if you lend to those from whom you expect repayment, what credit is that> to you? Even sinners lend to sinners, expecting to be repaid in full.*
@@ -108,9 +108,11 @@ Jesus was often approached and questioned by the Rabbi’s of His time, often in
 
 Sometimes the most righteous action is the one that goes directly against the law.
 
-*“12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. 2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”*
+*“12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them.*
 
-*3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his companions ate the consecrated bread—which was not lawful for them to do, but only for the priests.
+*2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”*
+
+*3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his* *companions ate the consecrated bread—which was not lawful for them to do, but only for the priests.*
 
 *5 Or haven’t you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent? 6 I tell you that something greater than the temple is here.*
 
