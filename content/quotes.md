@@ -12,6 +12,97 @@ date: 2023-10-21
 
 
 
+&nbsp;
+
+> **"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."** - Matthew 5:17
+
+&nbsp;
+ 
+> **"Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal. For where your treasure is, there your heart will be also."** - Matthew 6:19-21
+
+&nbsp;
+
+> **"Who of you by worrying can add a single hour to his life?"** - Matthew 6:27
+
+&nbsp;
+
+> **"If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!"** - Matthew 7:11
+
+&nbsp;
+
+> **"Come to me, all you who are weary and burdened, and I will give you rest."** - Matthew 11:28
+
+&nbsp;
+
+> **"Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is recognized by its fruit."** - Matthew 12:33
+
+&nbsp;
+
+> **"Because you have so little faith. I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there' and it will move. Nothing is impossible for you.** - Matthew 17:20
+
+&nbsp;
+
+> **"Love the Lord your God will all your heart and with all your soul and with all your mind."** - Matthew 22:37
+
+&nbsp;
+
+> **"Love your neighbor as yourself."** - Matthew 22:39
+
+&nbsp;
+
+> **"What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?"** - Matthew 18:12
+
+&nbsp;
+
+> **"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."** - Mark 10:14
+
+&nbsp;
+
+> **"Nothing outside a man can make him 'unclean' by going into him. Rather, it is what comes out of a man that makes him 'unclean'."** - Mark 7:15
+
+&nbsp;
+
+> **"The good man brings good things out of the good stored up in his heart, and the evil man brings evil things out of the evil stored up in his heart. For out of the overflow of his heart his mouth speaks."** - Luke 6:45
+
+&nbsp;
+
+> **"And you experts in the law, woe to you, because you load people down with burdens they can hardly carry, and you yourselves will not lift one finger to help them."** - Luke 11:46
+
+&nbsp;
+
+> **"Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God. Indeed, the very hairs of your head are all numbered. Don't be afraid; you are worth more than many sparrows."** - Luke 12:6
+
+&nbsp;
+
+> **"Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."** - Mark 11:24
+
+&nbsp;
+
+> **"My teaching is not my own. It comes from him who sent me."** - John 7:16
+
+&nbsp;
+
+> **“Blessed is the man who trusts in the LORD, and whose hope is the LORD.”** - Jeremiah 17:7
+
+&nbsp;
+
+> **“Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope by the power of the Holy Spirit.”** - Romans 15:13
+
+&nbsp;
+
+> **"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all. So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.** - 2 Corinthians 4:17-18
+
+&nbsp;
+
+> **"And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."** - Romans 5:2-5	
+
+&nbsp;
+
+> **"I wait for the LORD, my whole being waits, and in His word I put my hope."** - Psalm 130:5
+
+&nbsp;
+
+> **"And by faith even Sarah, who was past childbearing age, was enabled to bear children because she considered Him faithful who had made the promise.** - Hebrews 11:11
 
 &nbsp;
 
@@ -39,11 +130,11 @@ date: 2023-10-21
 
 &nbsp;
 
-> **Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, you cannot have an abundant crop without cultivation."** - Plato
+> **"Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, you cannot have an abundant crop without cultivation."** - Plato
 
 &nbsp;
 
-> **Even death is not to be feared by one who has lived wisely."** - Buddha
+> **"Even death is not to be feared by one who has lived wisely."** - Buddha
 
 &nbsp;
 
@@ -55,7 +146,7 @@ date: 2023-10-21
 
 &nbsp;
 
-> **Delight in meditation and solitude. Compose yourself, be happy. You are a seeker."** - Buddha
+> **"Delight in meditation and solitude. Compose yourself, be happy. You are a seeker."** - Buddha
 
 &nbsp;
 
