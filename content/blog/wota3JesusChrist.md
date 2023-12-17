@@ -73,7 +73,7 @@ It’s the thing that allows people to see each others humanity, to see each oth
 
 I’m reminded of a quote that is mentioned in various religions if a little paraphrased: 
 
-“All rivers lead to the same Ocean.”
+*“All rivers lead to the same Ocean.”*
 
 Or in other words, all paths lead to the same Source of life.
 
