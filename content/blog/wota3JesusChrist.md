@@ -85,7 +85,7 @@ That's what gives Christians the edge over all others. There's no way to be more
 
 ## The Golden Rule: Treating people how you would have them treat you.
 
-*“32 “If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 And if you do good to those who are*
+*“32 If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 And if you do good to those who are*
 *good to you, what credit is that to you? Even sinners do that.*
 
 *34 And if you lend to those from whom you expect repayment, what credit is that> to you? Even sinners lend to sinners, expecting to be repaid in full.*
@@ -118,7 +118,9 @@ Sometimes the most righteous action is the one that goes directly against the la
 
 *7 If you had known what these words mean, ‘I desire mercy, not sacrifice,’[a] you would not have condemned the innocent. 8 For the Son of Man is Lord of the Sabbath.” – NIV Matthew 12*
 
-It is a personal believe of mine that, more deeply than the writings in any holy book, God has written right and wrong into our very hearts and souls. The thing we call conscience, which let’s us know when we are or are not on the right track. I think the conscience is aligned with God and His will and living in alignment with that will help to make us better versions of ourselves.
+It is a personal believe of mine that, more deeply than the writings in any holy book, God has written right and wrong into our very hearts and souls.
+
+The thing we call conscience, which let’s us know when we are or are not on the right track. I think the conscience is aligned with God and His will and living in alignment with that will help to make us better versions of ourselves.
  
 ## Look at yourself first before you judge others.
 
