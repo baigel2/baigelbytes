@@ -10,51 +10,51 @@ date: 2023-10-21
 
 &nbsp;
 
-> *"Remember, if Christmas isn't found in your heart, you won't find it under a tree.”* - Charlotte Carpenter
+> **"Remember, if Christmas isn't found in your heart, you won't find it under a tree.”** - Charlotte Carpenter
 
 &nbsp;
  
-> *"We are better throughout the year for having, in spirit, become a child again at Christmastime"* - Laura Ingalls Wilder
+> **"We are better throughout the year for having, in spirit, become a child again at Christmastime"** - Laura Ingalls Wilder
 
 
 &nbsp;
 
-> *"Never worry about the size of your Christmas tree. In the eyes of children, they are all 30 feet tall."* - Larry Wilde
+> **"Never worry about the size of your Christmas tree. In the eyes of children, they are all 30 feet tall."** - Larry Wilde
 
 
 &nbsp;
 
-> *"When we give each other Christmas gifts in His name, let us remember that He has given us the sun and the moon and the stars, and the earth with its forests and mountains and oceans–and all that lives and move upon them"* - Sigrid Undset
+> **"When we give each other Christmas gifts in His name, let us remember that He has given us the sun and the moon and the stars, and the earth with its forests and mountains and oceans–and all that lives and move upon them"** - Sigrid Undset
 
 
 &nbsp;
 
-> *"Seeing is believing, but sometimes the most real things in the world are the things we can’t see"* - The Polar Express
+> **"Seeing is believing, but sometimes the most real things in the world are the things we can’t see"** - The Polar Express
 
 
 &nbsp;
 
-> *"Blessed is the season which engages the whole world in a conspiracy of love."* - Hamilton Wright Mabie
+> **"Blessed is the season which engages the whole world in a conspiracy of love."** - Hamilton Wright Mabie
 
 
 &nbsp;
 
-> *"I’ve learned that you can tell a lot about a person by the way he/she handles these three things: a rainy day, lost luggage, and tangled Christmas tree lights"* - Maya Angelou
+> **"I’ve learned that you can tell a lot about a person by the way he/she handles these three things: a rainy day, lost luggage, and tangled Christmas tree lights"** - Maya Angelou
 
 
 &nbsp;
 
-> *"My idea of Christmas, whether old-fashioned or modern, is very simple: loving others."* - scorce
+> **"My idea of Christmas, whether old-fashioned or modern, is very simple: loving others."** - scorce
 
 
 &nbsp;
 
-> *"If there is love in your heart and your mind, you will feel Christmas all the time."* - Faith Hill
+> **"If there is love in your heart and your mind, you will feel Christmas all the time."** - Faith Hill
 
 
 &nbsp;
 
-> *"There are three stages of man: he believes in Santa Claus; he does not believe in Santa Claus; he is Santa Claus."* - Bob Phillips
+> **"There are three stages of man: he believes in Santa Claus; he does not believe in Santa Claus; he is Santa Claus."** - Bob Phillips
 
 &nbsp;
 
