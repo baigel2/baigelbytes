@@ -6,7 +6,63 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+&nbsp;
 
+> **“Dwell on the beauty of life. Watch the stars, and see yourself running with them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life."** - Marcus Aurelius
+
+&nbsp;
+ 
+> **“The happiness of your life depends upon the quality of your thoughts."** - Marcus Aurelius *(I would add: The quality of your thoughts depends upon the consistency of positive action).*
+
+
+&nbsp;
+
+> **“Waste no more time arguing about what a good man should be. Be one."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"It isn’t manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. The nearer a man comes to a calm mind, the closer he is to strength."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"Wherever a person can live, there one can also live well"** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"You shouldn’t give circumstances the power to rouse anger, for they don’t care at all"** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"We are like many pellets of incense falling on the same altar. Some collapse sooner, others later, but it makes no difference"** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"The mind freed from passions is an impenetrable fortress—a person has no more secure place of refuge for all time."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"Choose not to be harmed, and you won’t feel harmed. Don’t feel harmed, and you haven’t been."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"Dig deep within yourself, for there is a fountain of goodness ever ready to flow if you will keep digging."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"You have been formed of three parts—body, breath, and mind. Of these, the first two are yours insofar as they are only in your care. The third alone is truly yours."** - Marcus Aurelius
+
+
+&nbsp;
+
+> **"Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong—right as they are trying to harm you?"** - Marcus Aurelius
 
 &nbsp;
 
