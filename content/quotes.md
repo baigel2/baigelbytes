@@ -6,6 +6,44 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+
+
+&nbsp;
+
+> **"Every year you make a resolution to change yourself. This year, make a resolution to be yourself."** - Unknown
+
+&nbsp;
+ 
+> **"In this new year, be grateful that God has given you victory over many things over the past year."** - Steven M. Hitchcock
+
+&nbsp;
+
+> **"He who breaks a resolution is a weakling; He who makes one is a fool."** - F.M. Knowles
+
+&nbsp;
+
+> **"Don’t live the same year 75 times and call it a life.”** - Robin Sharma
+
+&nbsp;
+
+> **"I like the dreams of the future better than the history of the past."** - Thomas Jefferson
+
+&nbsp;
+
+> **"The first step towards getting somewhere is to decide you’re not going to stay where you are."** - J.P. Morgan
+
+&nbsp;
+
+> **"An optimist stays up until midnight to see the new year in. A pessimist stays up to make sure the old year leaves."** - William E. Vaughan
+
+&nbsp;
+
+> **"You are never too old to set another goal or to dream a new dream."** - C.S. Lewis
+
+&nbsp;
+
+> **"Youth is when you're allowed to stay up late on New Year's Eve. Middle age is when you're forced to.”"** - Bill Vaughan
+
 &nbsp;
 
 > **“Dwell on the beauty of life. Watch the stars, and see yourself running with them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life."** - Marcus Aurelius
