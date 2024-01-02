@@ -5,8 +5,9 @@ date: 2023-10-21
 
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
+&nbsp;
 
-
+> **“You could leave life right now. Let that determine what you do and say and think.”** - Marcus Aurelius
 
 &nbsp;
 
