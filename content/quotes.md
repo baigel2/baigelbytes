@@ -5,6 +5,24 @@ date: 2023-10-21
 
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
+
+
+
+
+
+
+&nbsp;
+
+> **"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."** - Epictetus
+
+&nbsp;
+ 
+> **“Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."** - Buddha
+
+&nbsp;
+
+> **“Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure."** - Buddha
+
 &nbsp;
 
 > **“You could leave life right now. Let that determine what you do and say and think.”** - Marcus Aurelius
