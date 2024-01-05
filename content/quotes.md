@@ -8,8 +8,17 @@ date: 2023-10-21
 
 
 
+&nbsp;
 
+> **“"Ardently do today what must be done. Who knows? Tomorrow, death comes."** - Buddha
 
+&nbsp;
+
+> **“Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."** - Buddha
+
+&nbsp;
+
+> **“He who can curb his wrath as soon as it arises, as a timely antidote will check snake’s venom that so quickly spreads — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin."** - Buddha
 
 &nbsp;
 
