@@ -6,7 +6,17 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+&nbsp;
 
+> **“There is no hand to catch time."** - Indian Proverb
+
+&nbsp;
+ 
+> **““He who does not climb, will not fall either.”** - Indian Proverb
+
+&nbsp;
+
+> **“Don’t bargain for fish which are still in the water.” - Indian Proverb
 
 &nbsp;
 
