@@ -28,7 +28,7 @@ date: 2023-10-21
 
 &nbsp;
 
-> **“Don’t bargain for fish which are still in the water.” - Indian Proverb
+> **“Don’t bargain for fish which are still in the water.”** - Indian Proverb
 
 &nbsp;
 
