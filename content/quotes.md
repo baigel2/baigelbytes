@@ -8,6 +8,18 @@ date: 2023-10-21
 
 &nbsp;
 
+> **“Nothing will happen in your life unless you try something."** - Russian Proverb
+
+&nbsp;
+
+> **“Without effort, you won’t even pull a fish out of a pond."** - Russian Proverb
+
+&nbsp;
+
+> **“Beauty requires sacrifice.”** – Russian Proverbs
+
+&nbsp;
+
 > **“There is no hand to catch time."** - Indian Proverb
 
 &nbsp;
