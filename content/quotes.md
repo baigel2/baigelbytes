@@ -6,6 +6,24 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+
+
+&nbsp;
+
+> **“Not knowing is not shameful, not asking is."** - Turkish Proverb
+
+&nbsp;
+ 
+> **“A fool dreams of wealth; a wise man, of happiness."** - Turkish Proverb
+
+&nbsp;
+
+> **“The devil tempts all men, but idle men tempt the devil."** - Turkish Proverb
+
+&nbsp;
+
+> **“Man is harder than iron, stronger than stone and more fragile than a rose."** - Turkish Proverb
+
 &nbsp;
 
 > **“Nothing will happen in your life unless you try something."** - Russian Proverb
