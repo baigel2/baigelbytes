@@ -9,7 +9,7 @@ aliases = ["about-us","about-hugo","contact"]
 Hi, 
 
 I'm Adnan. 
-this is a test.
+
 I hate the way websites and blogs for too long have been more add than material.
 
 I wanted to make a blog that makes you almost feel like your reading a book. I dont want to have thousands of adds all over the place so the most you'll see in my posts are either none, or one per post right at the very bottom after you've read the whole post.
