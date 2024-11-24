@@ -200,6 +200,10 @@ disableHugoGeneratorInject = false
     name       = "Poems"
     url        = "poems/"
 
+  [[menu.main]]
+    identifier = "Short Stories"
+    name       = "Short Stories"
+    url        = "shortStories/"
 
   [[menu.main]]
     identifier = "quotes"
