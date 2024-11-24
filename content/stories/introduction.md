@@ -25,7 +25,7 @@ In the interest of developoing the necasary skills to write great stories I'm go
 
 It will follow the same standard as my other pages for poems and quotes where I will cite the author or put unknown and if no author is cited then that story is one of mine.
 
-If you want to read my poetry book 'The Wanderer' It's available [here](https://amzn.eu/d/6YGA0gw) if you're in the UK or simply search The Wanderer Adnan Baig, if you're browsing from a different country.
+If you want to read my poetry book 'The Wanderer' It's available [here](https://mybook.to/tisL3) on Amazon exclusively. (If the link doesn't work just search Amazon for 'The Wanderer Adnan Baig' and it should come up).
 
 50% of profits go directly to charity (25% to Palestine & 25% to the Uhygur Muslims) and a further 25% goes to other projects I'm working on to help raise more money for people in need.
 
