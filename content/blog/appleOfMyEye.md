@@ -17,6 +17,9 @@ series = ["seriesName"]
 
 ---
 
+## Why I love apple as a former linux user.
+
+
 Linux. It's an operating system I love very much. Or at least I love the idea of linux. The idea that you can own your computer and do whatever you want with it, change it completely to your liking and use it however you want.
 
 It's a great idea in principle but there are some hangups. You see, theres a difference between being able to do everything yourself and having to do everything yourself.
