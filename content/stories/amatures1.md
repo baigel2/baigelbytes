@@ -1,5 +1,5 @@
 +++
-title = "Amatures Part 1 - Testing."
+title = "Amatures Part 1 - A Short Story By Adnan Baig."
 description = ""
 type = ["posts","post"]
 tags = [
