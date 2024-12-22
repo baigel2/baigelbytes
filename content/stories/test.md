@@ -17,19 +17,19 @@ Standing in front of the bathroom mirror and struggling to hold back her tears, 
 Just as the water touches her hands though, she is transported back to her childhood. To the memory of her mother Maryam, teaching her how to do wudu for the first time.
 
  
-                  "Ok bubbly, first we say..."
+	"tab Ok bubbly, first we say..."
  
 
 They both speak together. "Bismillah Hir Rahman Nir Raheem"
  
 
-                  "Good! Well done, Fatima! Now we wash our hands three times..."
+     "5 spaces Good! Well done, Fatima! Now we wash our hands three times..."
  
 
-"Ah Mum! Waters cold!"
+		"2 tabs Ah Mum! Waters cold!"
  
 
-                  "Sorry sweetie, it'll warm up in just a sec. Try it now. See, nice and warm."
+          "10 spaces Sorry sweetie, it'll warm up in just a sec. Try it now. See, nice and warm."
  
 
 Fatima washes her hands three times.
