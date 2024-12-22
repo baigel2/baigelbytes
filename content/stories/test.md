@@ -1,5 +1,5 @@
 +++
-title = "testing file please ignore"
+title = "Amatures Part 2 - A Short Story By Adnan Baig."
 description = ""
 type = ["posts","post"]
 tags = [
@@ -7,7 +7,7 @@ tags = [
     "",
     
 ]
-date = "2024-12-21"
+date = "2024-12-22"
 series = ["Short Stories."]
 [ author ]
   name = "Adnan Baig"
