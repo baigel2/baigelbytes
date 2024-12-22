@@ -1,5 +1,5 @@
 +++
-title = "Wudu - A Short Story By Adnan Baig."
+title = "Wudu."
 description = ""
 type = ["posts","post"]
 tags = [
@@ -12,6 +12,9 @@ series = ["Short Stories."]
 [ author ]
   name = "Adnan Baig"
 +++
+
+## A Short Story By Adnan Baig
+
 
 Standing in front of the bathroom mirror and struggling to hold back her tears, Fatima starts performing her wudu.
 Just as the water touches her hands though, she is transported back to her childhood. To the memory of her mother Maryam, teaching her how to do wudu for the first time.

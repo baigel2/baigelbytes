@@ -1,5 +1,5 @@
 +++
-title = "Amatures Part 1 - A Short Story By Adnan Baig."
+title = "Amatures Part 1."
 description = ""
 type = ["posts","post"]
 tags = [
@@ -12,6 +12,8 @@ series = ["Short Stories."]
 [ author ]
   name = "Adnan Baig"
 +++
+
+## A Short Story By Adnan Baig
 
 
 The two would be robbers, Tom and James, pull up in their car right outside the bank. This isn't their first time but, it might as well be.
