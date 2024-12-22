@@ -23,7 +23,10 @@ Just as the water touches her hands though, she is transported back to her child
 	"tab Ok bubbly, first we say..."
  
 
-They both speak together. "Bismillah Hir Rahman Nir Raheem"
+{{% nohighlight %}}
+	Tab no highlight shortcode. This is indented text that won't be treated as a code block.
+{{% /nohighlight %}}
+
  
 
      "5 spaces Good! Well done, Fatima! Now we wash our hands three times..."
