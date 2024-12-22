@@ -68,7 +68,7 @@ Fatima washes her face twice and then Maryam washes it for her the third before 
 Maryam lifts Fatima up so she can stand in the sink and washes her feet for her.
  
 
-                  "Three times on the right, three times on the left. All done."
+                  "18 spaces Three times on the right, three times on the left. All done."
  
 
 Maryam smiles the kind of smile only a mother could give to a child and then gives Fatima a biggest and tightest of hugs.
