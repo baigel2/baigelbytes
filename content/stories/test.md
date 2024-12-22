@@ -40,3 +40,7 @@ And now with 2 tabs and then two spaces after the tabs:
 
 		  "Ok bubbly, first we say..."
 
+A suggestion from copilot is listed below using Klingon to make spaces at the beginning of the line:
+
+&nbsp;&nbsp;&nbsp;&nbsp;This is indented text.
+
