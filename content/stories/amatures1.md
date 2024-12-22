@@ -1,5 +1,5 @@
 +++
-title = "Amatures - A Short Story By Adnan Baig."
+title = "Amatures Part 1 - A Short Story By Adnan Baig."
 description = ""
 type = ["posts","post"]
 tags = [
@@ -18,23 +18,23 @@ The two would be robbers, Tom and James, pull up in their car right outside the 
 
 "Ok, guns?"
 
-	"Got em."
+     "Got em."
 
 "Bags?"
 
-	"Them too."
+     "Them too."
 
 "Gloves?"
 
-	"On."
+     "On."
 
 "Good. Lets go."
 
-	"Right... Wait Tom!!"
+     "Right... Wait Tom!!"
 
 "What!?"
 
-	"Masks!"
+     "Masks!"
 
 "Shit! We're not goin back to jail again, fuck that, here's yours."
 
@@ -42,27 +42,27 @@ They both put their masks on and then get out of their car and start making thei
 
 "Tom."
 
-	"What now!?"
+     "What now!?"
 
 "Door wont shut."
 
-	"Jim, how dumb are you?"
+     "Jim, how dumb are you?"
 
 "It won't shut."
 
-	"Who cares lets go!"
+     "Who cares lets go!"
 
 "What if somebody steals the car?"
 
 Tom lets out a deep sigh.
 
-	"Jim."
+     "Jim."
 
 "Look it wont close."
 
-	"How many times have i told you, you have to... SEE you're not even pushing the handle down afterwards! WHy are you so stupid? It's right there you can see the handle is up just push it down for fuck sake!"
+     "How many times have i told you, you have to... SEE you're not even pushing the handle down afterwards! WHy are you so stupid? It's right there you can see the handle is up just push it down for fuck sake!"
 
-	"Alright, no need to get mad."
+     "Alright, no need to get mad."
 
 "Get in the fucking bank now! Tom screams while pointing at the bank."
 
@@ -76,11 +76,11 @@ Everyone gets on the ground quietly.
 
 "Sir, I **strongly** sugguest you get on the ground, I'm sure you have family you want to get back to. James, keep your gun aimed at him, I got a feeling he's gonna try something."
 
-	"Tom! You used my name!"
+     "Tom! You used my name!"
 
 "Fuck! Wait you idiot, you just used mine!"
 
-	"What do we do now?"
+     "What do we do now?"
 
 In all the confusion a man takes the opportunity to run at Tom.
 
@@ -92,23 +92,23 @@ Tom looks at the police cars in awe. As the man takes him to the ground he doesn
 
 "How did they get here so quick?" He asks the man restraining him.
 
-	"We could see you bickering outside so we told the bankers and they pushed the button under the counter."
+     "We could see you bickering outside so we told the bankers and they pushed the button under the counter."
 
 "What? There's a button under the counter?"
 
-	The man looks confused. "Yes, how could you not know that?"
+     The man looks confused. "Yes, how could you not know that?"
 
 "I told you there was a button Tom! You never listen!" Screams James as the shock of the tazer wears off.
 
-	"Tom?" A police man says as he walks in.
+     "Tom?" A police man says as he walks in.
 
 "Christ! Not Tom and Jerry again!" Says another police man as he walks in.
 
-	"It's alright guys it's just Tom and Jerry. Idiots actually tried robbing the same bank again."
+     "It's alright guys it's just Tom and Jerry. Idiots actually tried robbing the same bank again."
 
 "I knew that was their car outside. You two are as dumb as it gets! At least you parked on a different street last time. Haha."
 
-	"We were in a rush!" James whines.
+     "We were in a rush!" James whines.
 
 "Shut up Jim! Shouts Tom."
 
@@ -116,23 +116,23 @@ The police men burst into laughter.
 
 "Ohh, Tom and Jerry. They aughta make a show outa you two."
 
-	"You couldn't just hurry up and arrest them could you." Says the man still restraining Tom. "They have guns."
+     "You couldn't just hurry up and arrest them could you." Says the man still restraining Tom. "They have guns."
 
-	"Oh don't worry sir they're no danger. We know these two all too well. They havent got enough money to buy real guns."
+     "Oh don't worry sir they're no danger. We know these two all too well. They havent got enough money to buy real guns."
 
 The policeman bends down takes Toms gun and scratches some of the paint off.
 
 "They're just pellet guns painted black. They did the same thing last time."
 
-	"And the time before that." Adds another policeman.
+     "And the time before that." Adds another policeman.
 
 "Alright you two. Lets get you home." Says the policeman.
 
-	"You're taking them home?" Asks the man, confuzed as he hands Tom over to the policeman.
+     "You're taking them home?" Asks the man, confuzed as he hands Tom over to the policeman.
 
-	"Prison sir. That's their home. Doesn't matter how many times they get out they always come right back. How long was it this time boys?"
+     "Prison sir. That's their home. Doesn't matter how many times they get out they always come right back. How long was it this time boys?"
 
-	"About three weeks. Says one of the police men."
+     "About three weeks. Says one of the police men."
 
 "Ha, wow." Says the man. "You two must be the dumbest bank robbers of all time. says the man."
 
