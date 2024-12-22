@@ -1,5 +1,5 @@
 +++
-title = "Amatures Part 2 - A Short Story By Adnan Baig."
+title = "Acodeblock testing"
 description = ""
 type = ["posts","post"]
 tags = [
@@ -12,6 +12,9 @@ series = ["Short Stories."]
 [ author ]
   name = "Adnan Baig"
 +++
+
+For some reason Hugo renders indented text as code blocks. It didn't use to do this.
+
 
 Standing in front of the bathroom mirror and struggling to hold back her tears, Fatima starts performing her wudu.
 Just as the water touches her hands though, she is transported back to her childhood. To the memory of her mother Maryam, teaching her how to do wudu for the first time.
@@ -28,6 +31,9 @@ They both speak together. "Bismillah Hir Rahman Nir Raheem"
 
 		"2 tabs Ah Mum! Waters cold!"
  
+                  "Whole line cp Good girl, now we wash our mouth, how many times?"
+
+                  "Only space at beginning cp Ah Mum! Waters cold!"
 
           "10 spaces Sorry sweetie, it'll warm up in just a sec. Try it now. See, nice and warm."
  
