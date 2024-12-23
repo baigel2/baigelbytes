@@ -178,4 +178,7 @@ The policeman bends down takes Toms gun and scratches some of the paint off.
 
 "Ha, wow." Says the man. "You two must be the dumbest bank robbers of all time. says the man."
 
-The police take Tom and James to the station and lock them up. Before long they go to court and get three years. Bail is $200,000.
+The police take Tom and James to the station and lock them up. Before long they go to court and get three years.
+
+
+Bail is $200,000.
