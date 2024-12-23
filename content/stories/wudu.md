@@ -82,3 +82,5 @@ He rushes in. "Fatima! Fatima!" He immediately gets down on the ground and tight
 
                   "I know petal, I know. It's ok my love, she's in heaven now. She's in heaven."
 
+
+
