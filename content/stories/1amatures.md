@@ -13,7 +13,7 @@ series = ["Short Stories."]
   name = "Adnan Baig"
 +++
 
-## A Short Story By Adnan Baig
+## A Short Story Series By Adnan Baig
 
 
 The two would be robbers, Tom and James, pull up in their car right outside the bank. This isn't their first time but, it might as well be.
