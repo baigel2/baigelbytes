@@ -67,7 +67,7 @@ James looks down at the floor pouting like a child. "Dad wouldn't have got us in
 
 "Just cause I'm not strong like you doesn't mean I can't look after myself. I'm smarter than you are!"
 
-                  "Nah kid, you're not smart. Smart kid wouldn't a stuck around with a big lump like me."
+                  Tom calms himself down and takes a deep sigh. "Nah kid, you're not smart. Smart kid wouldn't a stuck around with a big lump like me."
 
 "We're brothers Tom. Brothers stick together."
 
@@ -75,15 +75,15 @@ James looks down at the floor pouting like a child. "Dad wouldn't have got us in
 
 The two get to sleep and before long the bell rings and the cell doors open up. "CHOW TIME YOU LAZY FUCKS!!" Yells a guard as he drags his baton accross the cell bars making as much noise as he can.
 
-                  "Head down, say nothing. In and out quick as you can, got it?"
+                  Tom turns to his brother. "Head down, say nothing. In and out quick as you can, got it?"
 
 James nods his head anxiously and the two leave their cell for the food hall.
 
-As the two make their way to the serving counter James hears another prisoner calling him from one of the tables and looks up. "Hey sweetie, why don't you come here a minute." the man says smiling.
+As the two make their way to the serving counter James hears another prisoner calling him from one of the tables and looks up. "Hey sweetie, why don't you come here a minute." the man says with a grin.
 
                   "Jim! I told you, keep your head down!"
 
-"Aww what? You can't share? That's not nice!" Shouts the prisoner.
+"Aww what? You can't share? That's not nice!" Shouts the prisoner at Tom.
 
 The two keep their heads down and keep on walking till they arrive at the counter."
 
@@ -96,15 +96,14 @@ The two keep their heads down and keep on walking till they arrive at the counte
                   "He's coming over Tom! Whata we do?"
 
 
-Tom grabs his butter knife. Concealing it in his hand he stands in between James and the approaching prisoner.
-
+Tom grabs his butter knife and hides it in his hand. Then he steps in between James and the approaching prisoner.
 
 "I SAID. I'm not the guy you wanna ignore you piece of shit!"
 
 The prisoner takes a swing at Tom who quickly ducks under while placing the butter knife at the prisoners throat. The prisoners face turns pale as Tom looks him dead in the eye's.
 
 
-                  "You leave us alone. We leave you alone."
+                  "You leave us alone... We leave you alone."
 
 The prisoner says nothing. Tom waits a minute their eyes still locked together. Then he pulls back the knife slowly and waits for the prisoners next move.
 
@@ -131,7 +130,7 @@ Neither of the two waste any time and the guard takes them to be processed out.
 
                   "Try not to get arrested before you leave the carpark ok boys, surely you can manage that can't ya?"
 
-Neither Tom or James say a word. They just head out to the carpark to their car. As soon as they do though they see that all the tyres have been flattened with knives. The hood is up and the battery has been thrown through the windshield.
+Neither Tom or James say a word. They just head out to the carpark to their car. As soon as they do though they see that all the tyres have been punctured. The hood is up and the battery has been thrown through the windshield.
 
 "Ahh Fuck!" Shouts Tom.
 
@@ -139,7 +138,7 @@ Neither Tom or James say a word. They just head out to the carpark to their car.
 
 "Fuck it, we'll walk. They did that on purpose just to get a reaction. Sick fucks are probably laughing at us right now. Let go get something to eat."
 
-The two walk into town and with only $5 between them they get a burger and split it in half. Tom give James the bigger half.
+The two walk into town and with only $5 between them they get a burger and split it in half. Tom gives James the bigger half.
 
 "We need to find some place to sleep tonight." Says Tom.
 
@@ -155,7 +154,7 @@ The pair take the boxes and get to the nearby train bridge.
 
                   "Tom look. There's a hole in the wall."
 
-"It's small. We could probably squeeze in though. Here, put the cardboard on the ground it doesn't take our heat. I'll take bag outta that trash can we'll use it as a blanket."
+"It's small. We could probably squeeze in though. Here, put the cardboard on the ground it so doesn't take our heat. I'll take the bag outta that trash can we'll use it as a blanket."
 
 They squeeze in carefully. It's a tight fit but ther'es just enough room to breath at least.
 
