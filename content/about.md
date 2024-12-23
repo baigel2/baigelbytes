@@ -18,9 +18,6 @@ I work in retail and then outside of work I work on me. On living and learning, 
 
 I write about literally anything that interests me including science, religion, self help & improvment, mental health, and as new topics take my interest moving forward you will see them represented in my posts.
 
-## Publishing Schedule:
-
-I will aim to publish one article a month, one poem a week and at the beginning of each week I will release 7 motivational quotes, 1 for each day of the week. 
 
 ## Quotes & Poems:
 
@@ -41,20 +38,7 @@ Feel free to follow me on Instagram, Threads and Twitter. I post at least once a
 
 Links to my socials are just below and can also be found at the bottom of every blog post I write.
 
-If you want daily motivation through example then head on over now.
 
-
-## My first daily posts on socials:
-
-Each morning I post my mini workout along with a motivational quote to start the day off. In the 2nd image of the post you'll see something like "P1 20, P2 20/40, P3 20/60." below the day and date. This is for convenience on my part but here's what it means.
-
-* P = Push ups, x = set number. Therefore: P1 = my 1st set of push ups in the workout.
-
-* xx = number of reps in the first set.
-
-* xx/xx = number of reps this set/total number of reps for this (mini) workout so far.
-
-The purpose of this workout is mainly just to help me wake my body and mind up and it's immediately followed by a mandatory cold shower just to give a little boost. No need for a coffee after that!
 
 
 &nbsp;
