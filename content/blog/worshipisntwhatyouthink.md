@@ -27,9 +27,9 @@ At first glance this seems like a very self centered, selfish statement. "Why is
 
 The verse above is [Surah Adh-Dhariyat, verse 56](https://quran.com/en/adh-dhariyat/56-58) if you look at verses 57 and 58 they read:
 
-> 56: "I seek no provision from them, nor do I need them to feed Me."
+> 57: "I seek no provision from them, nor do I need them to feed Me."
 
-> 57: "Indeed, Allah ˹alone˺ is the Supreme Provider—Lord of all Power, Ever Mighty."
+> 58: "Indeed, Allah ˹alone˺ is the Supreme Provider—Lord of all Power, Ever Mighty."
 
 If our Creator does not need us for anything why does he want our worship? To answer that, we need to look at what worship is and what worship does both for us and for Him.
 
