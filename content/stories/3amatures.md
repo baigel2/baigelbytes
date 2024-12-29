@@ -7,7 +7,7 @@ tags = [
     "",
     
 ]
-date = "2024-12-24"
+date = "2024-12-29"
 series = ["Short Stories."]
 [ author ]
   name = "Adnan Baig"
@@ -16,8 +16,9 @@ series = ["Short Stories."]
 ## A Short Story Series By Adnan Baig
 
 
-"Jim? Jim you up? Comon we gotta get going. We... we're soaking wet!"
+"Jim? Jim you up? Comon we gotta get going."
 
+                "We... we're soaking wet!"
 
                 "Yeah. Bag got blown away or something. We gotta find some place to warm up."
 
