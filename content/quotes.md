@@ -6,6 +6,13 @@ date: 2023-10-21
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
 
+
+
+
+&nbsp;
+
+**“If you love life, don’t waste time, for time is what life is made up of"** - Bruce Lee
+
 &nbsp;
 
 > **"The foundation of every state is the education of its youth."** – Diogenes
