@@ -1,5 +1,5 @@
 +++
-title = "Thinking “about money.
+title = "Thinking about money."
 subtitle = ""
 description = ""
 type = ["posts","post"]
