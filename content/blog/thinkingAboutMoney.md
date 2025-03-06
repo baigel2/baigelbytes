@@ -19,7 +19,7 @@ series = ["seriesName"]
 
 Ok, not that long ago, but still. When I was a teenager I went through, (perhaps like most teenagers?) a philosophy phase. I looked into different religions and as you might guess got pretty into buddhism.
 
-I started meditating and even got to a point where I managed to empty my mind of all (conscious) thought. (Read more about that here)
+I started meditating and even got to a point where I managed to empty my mind of all (conscious) thought.
 
 But aside from philosophising over spiritual matters I was also thinking quite a lot about worldly matters. Like, what if the medicine industry was actually not in favour of curing all diseases?
 
