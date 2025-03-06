@@ -3,7 +3,12 @@ title = "Thinking about money."
 subtitle = ""
 description = ""
 type = ["posts","post"]
-tags = 
+tags = [
+    "Opinion",
+    "Science",
+    "Atheism",
+    "Theism",
+]
 date = "2025-02-23"
 series = ["seriesName"]
 [ author ]
