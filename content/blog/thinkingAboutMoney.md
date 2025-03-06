@@ -4,10 +4,10 @@ subtitle = ""
 description = ""
 type = ["posts","post"]
 tags = [
-    "Opinion",
-    "Science",
-    "Atheism",
-    "Theism",
+    "",
+    "",
+    "",
+    "",
 ]
 date = "2025-02-23"
 series = ["seriesName"]
