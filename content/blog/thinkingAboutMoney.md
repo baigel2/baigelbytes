@@ -4,7 +4,7 @@ subtitle = ""
 description = ""
 type = ["posts","post"]
 tags = [
-	“financial discipline.”,
+	“”,
 	"",
 	"",
     
