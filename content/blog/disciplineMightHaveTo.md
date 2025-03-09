@@ -50,7 +50,7 @@ The solution? I need to go on another discipline journey but this time it needs 
 
 I’m hating this right now. I want life to be easy. I just want to go to work come back home and sleep.
 
-That’s no ok. That is not ok.
+That’s not ok. That is not ok.
 
 
 > **“Hard choices, easy life. Easy choices, hard life.”** - Jerzy Gregorek
