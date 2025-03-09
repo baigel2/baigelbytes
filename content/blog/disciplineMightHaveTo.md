@@ -18,35 +18,25 @@ series = ["seriesName"]
 ---
 
 
-As the alarm goes off and I’m lying in bed after a half day at work I think, maybe I should do iftaar at home today.
+As the alarm goes off and I’m lying in bed after a half day at work I think, maybe I should do iftaar at home today. There’s a programme on at the mosque with English lectures every evening after prayers and iftaar and the mosque is a stones throw from where I work.
 
-There’s a programme on at the mosque with English lectures every evening after prayers and iftaar and the mosque is a stones throw from where I work.
+Then I’m reminded of two things.
 
-Then I’m reminded of three things.
+1. Yesterdays talk focussed heavily on discipline.
 
-Yesterdays talk focussed heavily on discipline. Something I’ve learnt at an intellectual level at least is, the times when you least want to are the times when you most have to.
+2. Something I’ve learnt at an intellectual level at least is, the times when you least want to are the times when you most have to.
 
 When you least want to do something you know will be beneficial, but then you go anyway, those are often the times when you most benefit from it.
 
 You enjoy yourself more, you learn more and you feel happier for having done it.
 
-So, I got up did wudu and left for the mosque.
+So, I got up did wudu and left for the mosque. On the way my brain started arguing with me, “why are we going back to work!? Weve already finished our shift today!!”
 
-On the way my brain started arguing with me, “why are we going back to work!? Weve already finished our shift today!!”
-
-“We’re not going to work we’re going to the mosque calm down.” I replied with a laugh.
-
-Sitting in the mosque waiting for prayers to start, I wrote the beginning of this post.
+“We’re not going to work we’re going to the mosque calm down.” I replied with a laugh. Sitting in the mosque waiting for prayers to start, I wrote the beginning of this post.
 
 I don’t want to be disciplined but I might not have a choice. It seems like the mythical hang time in basketball, finding a balance and walking the middle path between the extremes of phsycopathic discipline and mind numbing indolence might (MIGHT!) be an illusion.
 
-Perhaps we really are, only ever becoming better or becoming worse.
-
-Some of the most valuable things to me in life are peace, quiet and freedom. 
-
-Peace and quiet, solitutde, when you get a fast for them are way more important than anything (other than Islam) that places like Dubai have to offer.
-
-Picture a log cabin in the Alaskan wilderness, a river 50 feet away mountains in the distance. Not a human soul for a hundred miles in any direction.
+Perhaps we really are, only ever becoming better or becoming worse. Some of the most valuable things to me in life are peace, quiet and freedom. Peace and quiet, solitutde, when you get a fast for them are way more important than anything (other than Islam) that places like Dubai have to offer. Picture a log cabin in the Alaskan wilderness, a river 50 feet away mountains in the distance. Not a human soul for a hundred miles in any direction.
 
 For a number of years this had and sometimes still is my dream home. Very close to my idea of paradise.
 
@@ -63,7 +53,7 @@ I’m hating this right now. I want life to be easy. I just want to go to work c
 That’s no ok. That is not ok.
 
 
-> “Hard choices, easy life. Easy choices, hard life.” - Jerzy Gregorek
+> **“Hard choices, easy life. Easy choices, hard life.”** - Jerzy Gregorek
 
 
 I’ll let you know what happens.
