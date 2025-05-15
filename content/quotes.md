@@ -5,8 +5,53 @@ date: 2023-10-21
 
 **Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.**
 
+&nbsp;
 
+> **”Cut away evil from the chest of others by snatching (it) away from your own chest.”** - Imam Ali (AS)
 
+&nbsp;
+
+> **"Happiness lies on the other side of what you don't want to do but know you must, just like courage lies on the other side of what you fear. In both cases, there is no way around. You must go through."**
+
+&nbsp;
+
+> **”Youth is wasted on the young.”** - Mark Twain
+
+&nbsp;
+
+> **"Zuhud does not mean you don't own anything. Zuhud means that nothing owns you."** - Imam Ali AS
+
+&nbsp;
+
+> **“If you love life, don’t waste time, for time is what life is made up of"** - Bruce Lee
+
+&nbsp;
+
+> **"The foundation of every state is the education of its youth."** – Diogenes
+
+&nbsp;
+
+> **“For a man to conquer himself is the first and noblest of all victories. ”** - Plato
+
+&nbsp;
+ 
+> **“Small disciplines repeated with consistency every day lead to great achievements gained slowly over time."** - John C. Maxwell
+
+&nbsp;
+
+> **“Rule your mind or it will rule you. "** - Horace
+
+&nbsp;
+
+> **“There is no magic wand that can resolve our problems. The solution rests with our work and discipline."** - Jose Eduardo dos Santos
+
+&nbsp;
+
+> **“Self-control is the chief element in self-respect, and self-respect is the chief element in courage."** - Thucydides
+
+&nbsp;
+
+> **“Civilize The Mind, But Make Savage The Body.”** - Chinese Proverb
 
 &nbsp;
 

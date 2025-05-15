@@ -111,11 +111,19 @@ You don’t have to become a Samurai to benefit from Miyamoto’s life lessons a
 It’s something that, once practiced, will allow you to progress to your fullest potential because a big part of success is being able to say “No” and just focus on the task at hand. Focus, solitude, and constructive anger are three things that can help you do just that.
 
 
+&nbsp;
+
 ---
 
 Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.com) or below.
 
 If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes2@gmail.com
+
+Also, I have a poetry book! It's published [here](https://amzn.eu/d/3nzHMT6) on Amazon and free to read if you're a kindle unlimited subscriber. Kindle unlimited authors get paid based on how many pages are read.
+
+Alternatively you can buy the ebook for £1.99 from the UK site, the prices will vary if you're in a different part of the world.
+
+I'm giving 50% profits to charity: 25% Palestine and 25% to the Uyghur Muslims of Turkestan. A further 25% of profits will go towards other projects i'm working on that will raise more money for people in need.
 
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
@@ -125,4 +133,3 @@ If you'd like to support my work feel free to share my posts or website on socia
 [*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
 
 [*Gmail:* baigelbytes2@gmail.com](baigelbytes2@gmail.com)
-
