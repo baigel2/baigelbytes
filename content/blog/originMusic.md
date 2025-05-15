@@ -62,7 +62,12 @@ The oldest archaeological evidence of music we have at the moment comes in the f
 They must have had music well before they started making instruments.
 
 
+As far as I can see though the caves in Germany are about as far back as the reasearch goes. So what's the next milestone?
 
+
+# Tribal Music.
+
+Music for hunting, music for war, music for weddings, for just about anything you can think of I'm guessing.
 
 
 
