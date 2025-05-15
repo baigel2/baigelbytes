@@ -1,5 +1,5 @@
 +++
-title = "Origin - A Brief History of Music Part 1."
+title = "A Brief History of Music Part 1."
 description = "Exploring where music first came from."
 type = ["posts","post"]
 tags = [
