@@ -6,7 +6,7 @@ theme = "hugo-theme-hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+pagination.pagerSize  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -37,8 +37,6 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Adnan Baig"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -53,10 +51,11 @@ disableHugoGeneratorInject = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  author = "Adnan Baig"
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "A blog featuring topics that interest me and hopefully you too."
   keywords = ""
   images = [""]
 
@@ -183,6 +182,15 @@ disableHugoGeneratorInject = false
    # subtitle  = "A blog featuring topics that interest me and hopefully you too!"
     #weight    = 2
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
 
 [menu]
   [[menu.main]]
