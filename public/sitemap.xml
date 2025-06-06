@@ -2,369 +2,382 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://baigelbytes.com/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cat1/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cat2/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/funcwealth/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tags/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/disciplinemighthaveto/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/disciplinemighthaveto/</loc>
+    <loc>http://localhost:1313/series/seriesname/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://baigelbytes.com/series/seriesname/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://baigelbytes.com/blog/thinkingaboutmoney/</loc>
+    <loc>http://localhost:1313/blog/thinkingaboutmoney/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/discipline-vs-consistency./</loc>
+    <loc>http://localhost:1313/tags/discipline-vs-consistency./</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/</loc>
+    <loc>http://localhost:1313/blog/middlepath0/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/middlepath0/</loc>
-    <lastmod>2025-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://baigelbytes.com/stories/3amatures/</loc>
+    <loc>http://localhost:1313/stories/3amatures/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/short-stories./</loc>
+    <loc>http://localhost:1313/series/short-stories./</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/shortstories/</loc>
+    <loc>http://localhost:1313/tags/shortstories/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/stories/</loc>
+    <loc>http://localhost:1313/stories/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/tech-stuff/</loc>
+    <loc>http://localhost:1313/tags/tech-stuff/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/worshipisntwhatyouthink/</loc>
+    <loc>http://localhost:1313/blog/worshipisntwhatyouthink/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/stories/2amatures/</loc>
+    <loc>http://localhost:1313/stories/2amatures/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/disciplinediscipline/</loc>
+    <loc>http://localhost:1313/blog/disciplinediscipline/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/stories/1amatures/</loc>
+    <loc>http://localhost:1313/stories/1amatures/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/stories/wudu/</loc>
+    <loc>http://localhost:1313/stories/wudu/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/appleofmyeye/</loc>
+    <loc>http://localhost:1313/blog/appleofmyeye/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/stories/introduction/</loc>
+    <loc>http://localhost:1313/stories/introduction/</loc>
     <lastmod>2024-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/some-by-me-some-by-others./</loc>
+    <loc>http://localhost:1313/tags/some-by-me-some-by-others./</loc>
     <lastmod>2024-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/</loc>
+    <loc>http://localhost:1313/poems/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/poems/</loc>
+    <loc>http://localhost:1313/tags/poems/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/poetry./</loc>
+    <loc>http://localhost:1313/series/poetry./</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/sergeyesenin_thewintersings/</loc>
+    <loc>http://localhost:1313/poems/sergeyesenin_thewintersings/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/the-winter-sings---sergey-esenin./</loc>
+    <loc>http://localhost:1313/tags/the-winter-sings---sergey-esenin./</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/alexander-maclean/</loc>
+    <loc>http://localhost:1313/tags/alexander-maclean/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/newyeargoodmorning-alexandermaclean/</loc>
+    <loc>http://localhost:1313/poems/newyeargoodmorning-alexandermaclean/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/marian-swinger/</loc>
+    <loc>http://localhost:1313/tags/marian-swinger/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/the1stchristmas-marianswinger/</loc>
+    <loc>http://localhost:1313/poems/the1stchristmas-marianswinger/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/poetry/bible./</loc>
+    <loc>http://localhost:1313/series/poetry/bible./</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/psalm-121/</loc>
+    <loc>http://localhost:1313/tags/psalm-121/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/songofacents-psalm121/</loc>
+    <loc>http://localhost:1313/poems/songofacents-psalm121/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/american/</loc>
+    <loc>http://localhost:1313/tags/american/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/waltwhitmandemocracy/</loc>
+    <loc>http://localhost:1313/poems/waltwhitmandemocracy/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/walt-whitman/</loc>
+    <loc>http://localhost:1313/tags/walt-whitman/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/onlybreath-rumi/</loc>
+    <loc>http://localhost:1313/poems/onlybreath-rumi/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/poetry/english./</loc>
+    <loc>http://localhost:1313/series/poetry/english./</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/rumi/</loc>
+    <loc>http://localhost:1313/tags/rumi/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/happiness/</loc>
+    <loc>http://localhost:1313/tags/happiness/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/wota2miyamoto/</loc>
+    <loc>http://localhost:1313/blog/wota2miyamoto/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/purpose/</loc>
+    <loc>http://localhost:1313/tags/purpose/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/self-improvement/</loc>
+    <loc>http://localhost:1313/tags/self-improvement/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/hope-emilydickinson/</loc>
+    <loc>http://localhost:1313/poems/hope-emilydickinson/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/emily-dickinson/</loc>
+    <loc>http://localhost:1313/tags/emily-dickinson/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/williamwordsworthslumber/</loc>
+    <loc>http://localhost:1313/poems/williamwordsworthslumber/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/oldpoetry/english./</loc>
+    <loc>http://localhost:1313/series/oldpoetry/english./</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/william-wordsworth./</loc>
+    <loc>http://localhost:1313/tags/william-wordsworth./</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/waltwhitmancaptain/</loc>
+    <loc>http://localhost:1313/poems/waltwhitmancaptain/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/journey-to-manhood./</loc>
+    <loc>http://localhost:1313/tags/journey-to-manhood./</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/my-poetry./</loc>
+    <loc>http://localhost:1313/series/my-poetry./</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/makeboyman/</loc>
+    <loc>http://localhost:1313/poems/makeboyman/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/cycles-of-life/</loc>
+    <loc>http://localhost:1313/tags/cycles-of-life/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/rivercycle/</loc>
+    <loc>http://localhost:1313/poems/rivercycle/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/aristotle/</loc>
+    <loc>http://localhost:1313/blog/aristotle/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/christian-poetry/</loc>
+    <loc>http://localhost:1313/tags/christian-poetry/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/upontthelordicall/</loc>
+    <loc>http://localhost:1313/poems/upontthelordicall/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/emotions/</loc>
+    <loc>http://localhost:1313/tags/emotions/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/gratitude/</loc>
+    <loc>http://localhost:1313/poems/gratitude/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/new-poems/</loc>
+    <loc>http://localhost:1313/series/new-poems/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/100-days/</loc>
+    <loc>http://localhost:1313/series/100-days/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/freedomisntfree/</loc>
+    <loc>http://localhost:1313/poems/freedomisntfree/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/gratitude-humility-momento-mori/</loc>
+    <loc>http://localhost:1313/tags/gratitude-humility-momento-mori/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/momento-mori/</loc>
+    <loc>http://localhost:1313/tags/momento-mori/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/notime/</loc>
+    <loc>http://localhost:1313/poems/notime/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/athousandstepstothestart/</loc>
+    <loc>http://localhost:1313/poems/athousandstepstothestart/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/a-thousand-steps-to-the-starting-line./</loc>
+    <loc>http://localhost:1313/tags/a-thousand-steps-to-the-starting-line./</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/prayerbyaction/</loc>
+    <loc>http://localhost:1313/poems/prayerbyaction/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/prayer-by-action/</loc>
+    <loc>http://localhost:1313/tags/prayer-by-action/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/progress/</loc>
+    <loc>http://localhost:1313/poems/progress/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/progress/</loc>
+    <loc>http://localhost:1313/tags/progress/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/quotes/</loc>
+    <loc>http://localhost:1313/quotes/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/waves/</loc>
+    <loc>http://localhost:1313/poems/waves/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/waves/</loc>
+    <loc>http://localhost:1313/tags/waves/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/buddhism/</loc>
+    <loc>http://localhost:1313/tags/buddhism/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/enlightenment/</loc>
+    <loc>http://localhost:1313/tags/enlightenment/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/getting-to-know-your-superpowers/</loc>
+    <loc>http://localhost:1313/series/getting-to-know-your-superpowers/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/superpowers/</loc>
+    <loc>http://localhost:1313/tags/superpowers/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/tbits/</loc>
+    <loc>http://localhost:1313/blog/tbits/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/habits/</loc>
+    <loc>http://localhost:1313/tags/habits/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/life-goals/</loc>
+    <loc>http://localhost:1313/tags/life-goals/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/progress-to-freedom/</loc>
+    <loc>http://localhost:1313/series/progress-to-freedom/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/progression/</loc>
+    <loc>http://localhost:1313/tags/progression/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/tjoats/</loc>
+    <loc>http://localhost:1313/blog/tjoats/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/coping-mechanisms/</loc>
+    <loc>http://localhost:1313/tags/coping-mechanisms/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/mental-health/</loc>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/mh2/</loc>
+    <loc>http://localhost:1313/blog/mh2/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/self-awareness/</loc>
+    <loc>http://localhost:1313/tags/self-awareness/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/ethics--morality/</loc>
+    <loc>http://localhost:1313/tags/ethics--morality/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/philosophy/</loc>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/veganism/</loc>
+    <loc>http://localhost:1313/tags/veganism/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/vegans/</loc>
+    <loc>http://localhost:1313/blog/vegans/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/astrophysics/</loc>
+    <loc>http://localhost:1313/tags/astrophysics/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/science/</loc>
+    <loc>http://localhost:1313/tags/science/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/ticc2/</loc>
+    <loc>http://localhost:1313/blog/ticc2/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/topics-i-cant-compute./</loc>
+    <loc>http://localhost:1313/series/topics-i-cant-compute./</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/topics-i-cant-compute./</loc>
+    <loc>http://localhost:1313/tags/topics-i-cant-compute./</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/capitalism/</loc>
+    <loc>http://localhost:1313/tags/capitalism/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/capitalism/</loc>
+    <loc>http://localhost:1313/blog/capitalism/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/economics/</loc>
+    <loc>http://localhost:1313/tags/economics/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/sociology/</loc>
+    <loc>http://localhost:1313/tags/sociology/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/deismpossible/</loc>
+    <loc>http://localhost:1313/blog/deismpossible/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/atheism/</loc>
+    <loc>http://localhost:1313/tags/atheism/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/opinion/</loc>
+    <loc>http://localhost:1313/tags/opinion/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/theism/</loc>
+    <loc>http://localhost:1313/tags/theism/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/determinism/</loc>
+    <loc>http://localhost:1313/tags/determinism/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/free-will/</loc>
+    <loc>http://localhost:1313/tags/free-will/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/freewill/</loc>
+    <loc>http://localhost:1313/blog/freewill/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/life-coaching/</loc>
+    <loc>http://localhost:1313/tags/life-coaching/</loc>
     <lastmod>2021-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/mh/</loc>
+    <loc>http://localhost:1313/blog/mh/</loc>
     <lastmod>2021-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/humanism/</loc>
+    <loc>http://localhost:1313/tags/humanism/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/religion/</loc>
+    <loc>http://localhost:1313/series/religion/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/religion/</loc>
+    <loc>http://localhost:1313/tags/religion/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/respect/</loc>
+    <loc>http://localhost:1313/tags/respect/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/blog/religiousidentity/</loc>
+    <loc>http://localhost:1313/blog/religiousidentity/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/emotions/</loc>
+    <loc>http://localhost:1313/poems/emotions/</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/series/my-old-poetry./</loc>
+    <loc>http://localhost:1313/series/my-old-poetry./</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/poems/poetryondemand/</loc>
+    <loc>http://localhost:1313/poems/poetryondemand/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/tags/poetry-on-demand/</loc>
+    <loc>http://localhost:1313/tags/poetry-on-demand/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigelbytes.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://baigelbytes.com/categories/</loc>
   </url>
 </urlset>

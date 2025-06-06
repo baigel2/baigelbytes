@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Baigel Bytes</title>
-    <link>https://baigelbytes.com/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigelbytes.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SeriesName</title>
-      <link>https://baigelbytes.com/series/seriesname/</link>
+      <link>http://localhost:1313/series/seriesname/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/seriesname/</guid>
+      <guid>http://localhost:1313/series/seriesname/</guid>
       <description></description>
     </item>
     <item>
       <title>Short Stories.</title>
-      <link>https://baigelbytes.com/series/short-stories./</link>
+      <link>http://localhost:1313/series/short-stories./</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/short-stories./</guid>
+      <guid>http://localhost:1313/series/short-stories./</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry.</title>
-      <link>https://baigelbytes.com/series/poetry./</link>
+      <link>http://localhost:1313/series/poetry./</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/poetry./</guid>
+      <guid>http://localhost:1313/series/poetry./</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry/Bible.</title>
-      <link>https://baigelbytes.com/series/poetry/bible./</link>
+      <link>http://localhost:1313/series/poetry/bible./</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/poetry/bible./</guid>
+      <guid>http://localhost:1313/series/poetry/bible./</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry/English.</title>
-      <link>https://baigelbytes.com/series/poetry/english./</link>
+      <link>http://localhost:1313/series/poetry/english./</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/poetry/english./</guid>
+      <guid>http://localhost:1313/series/poetry/english./</guid>
       <description></description>
     </item>
     <item>
       <title>OldPoetry/English.</title>
-      <link>https://baigelbytes.com/series/oldpoetry/english./</link>
+      <link>http://localhost:1313/series/oldpoetry/english./</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/oldpoetry/english./</guid>
+      <guid>http://localhost:1313/series/oldpoetry/english./</guid>
       <description></description>
     </item>
     <item>
       <title>My Poetry.</title>
-      <link>https://baigelbytes.com/series/my-poetry./</link>
+      <link>http://localhost:1313/series/my-poetry./</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/my-poetry./</guid>
+      <guid>http://localhost:1313/series/my-poetry./</guid>
       <description></description>
     </item>
     <item>
       <title>New Poems</title>
-      <link>https://baigelbytes.com/series/new-poems/</link>
+      <link>http://localhost:1313/series/new-poems/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/new-poems/</guid>
+      <guid>http://localhost:1313/series/new-poems/</guid>
       <description></description>
     </item>
     <item>
       <title>100 Days</title>
-      <link>https://baigelbytes.com/series/100-days/</link>
+      <link>http://localhost:1313/series/100-days/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/100-days/</guid>
+      <guid>http://localhost:1313/series/100-days/</guid>
       <description></description>
     </item>
     <item>
       <title>Getting to Know Your Superpowers</title>
-      <link>https://baigelbytes.com/series/getting-to-know-your-superpowers/</link>
+      <link>http://localhost:1313/series/getting-to-know-your-superpowers/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://baigelbytes.com/series/getting-to-know-your-superpowers/</guid>
+      <guid>http://localhost:1313/series/getting-to-know-your-superpowers/</guid>
       <description></description>
     </item>
   </channel>
