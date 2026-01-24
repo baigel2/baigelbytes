@@ -33,7 +33,9 @@ tags:
 (This and most of my blog entries are based on my own opinions and therefore could be wrong at any time. Please don't assume that I'm stating my opinions as objective facts.)
 
 
-Almost everyone who follows a religion claims that their religion is the truth. But what do they mean. Is it possible for them all to be right at the same time? What if they're all partly right and partly wrong? Or could it be that they are all 100% wrong? That's what I'm going to think about in this entry. I'm not going to try to find that religion as that would be a much bigger project. I could spend my whole life doing that and still be completely wrong. Instead, I'm going to ask, if there even could be a religion of truth and if there were, what methods could be used to find it.
+Almost everyone who follows a religion claims that their religion is the truth. But what do they mean. Is it possible for them all to be right at the same time? What if they're all partly right and partly wrong? Or could it be that they are all 100% wrong? That's what I'm going to think about in this entry.
+
+I'm not going to try to find that religion as that would be a much bigger project. I could spend my whole life doing that and still be completely wrong. Instead, I'm going to ask, if there even could be a religion of truth and if there were, what methods could be used to find it.
 
 For a moment lets assume that there is just one religion in the world that is true and all the other religions of the world are false. To narrow it down a little lets say that the religion which is true is also still practiced today.
 
