@@ -86,6 +86,15 @@ This is how powerful this stuff is. Vision board style thinking doesn't have to 
 
 And the only one who can, is you.
 
+So what can you take away from this?
+
+## Find your balance.
+
+If you're trying to change and it feels like it's too hard and you're putting to much preassure on yourself, that's because you are! Listen to your instincts. That said, you will need to go at least slightly outside of your comfort zone otherwise you wont be able to expand it.
+
+The rate at which you try to effect change should be as small as possible whilst still making visible progress. Visible to you that is. It doesn't matter if you're not moving forward but other peoples yard sticks. An ultramarathon runner who is self centered and worships their ego might look down upon the obese person just trying to jog round the block for the first time, but to the obese person completing that lap around the block is worth as much as an ultramarathon gold medal! Because it represents a very real progression. Moving forward in a positive and non obsessive direction.
+
+You don't have to be David Goggins. In fact, most people shouldn't be. But there is absolutely nothing wrong with trying to be the best version of you.
 
 
 
