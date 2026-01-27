@@ -74,6 +74,8 @@ Well, all those years ago is right now, and it's up to me. Sometimes the only wa
 
 So, I need to change but how do i figure out the rate of change that will be sustainable for the long term? Well, as I just said, sometimes the only way to get somewhere is to go there yourself. It's going to take experimenting to find what works for you. What's been working for me so far? Tracking. Tracking my spednding in a budget google sheet. Tracking my eating on notion and using gemini to tell me how many calories i've taken in each day and how that compares to calories out. I use apple fitness to tell me my calories out figure.
 
+## Practice equals progress. Slow, consistent, lasting.
+
 At the time of writing this I've pretty much been in an avarage surplus of 1500 calories a day. No wonder I've good man boobs! And today is the first day that I managed to get my sugar below 10 without starting a cascade of emotions leading to a food binge. That right there is progress and progress is what you get when you measure the things that you want to improve. Even if you don't try to change them at first and simply observe.
 
 This is another difference. The difference of perspective and intention. The attitude with which you approach a problem can make all the difference. Before I used to think that lowering my sugar meant giving up all food including healthy ones and just basically starving myself to death each day. I thought that even if I had healthy food that my sugar would immidiately sky rocket. Then i discovered that there were foods that actually don't affect your blod sugar and that day my sugar actually went down from before breakfast to afterwards.
