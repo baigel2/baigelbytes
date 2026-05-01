@@ -31,7 +31,7 @@ Chris holds his finger up again. "How long?"
 
 "Hour an a half."
 
-"Right, grab that side."
+Chris huffs through his nose in frustration. "You fuckin idiot! Right grab that side."
 
 "What?"
 
@@ -45,9 +45,10 @@ Chris looks over irate, he quickly gets up and lunges at Sam grabbing his neck a
 
 "He tried to fucking kill me what was I supposed to do just let him?"
 
-Chris huffs through his nose in frustration. "Fuck it! Lets get him outta here, we'll bury him in the forest. What the fuck Boss is gonna do to us I have no idea! It'll be worse than death!"
+ "Fuck it! Lets get him outta here, we'll bury him in the forest. What the fuck Boss is gonna do to us I have no idea! It'll be worse than death!"
 
 The two wrap the body up and load it up in the van outside.
+
 
 ---
 
