@@ -31,13 +31,13 @@ Chris holds his finger up again. "How long?"
 
 "Hour an a half."
 
-Chris huffs through his nose in frustration. "You fuckin idiot! Right grab that side."
+Chris huffs through his nose in frustration. "Right grab that side."
 
 "What?"
 
 "Fuck sake! Sam! Pick him up so I can put a tarp under him we cant just leave him here can we ya fuckin idiot!"
 
-"Fuck! Chris I'm sorry, I fucked up I know. Here." Sam picks up the body and Chris grabs a tarp of the shelf and unfolds it underneath the it.
+"Fuck! Chris I'm sorry, I fucked up I know. Here." Sam picks up the body and Chris grabs a tarp of the shelf and unfolds it underneath the body.
 
 "What are we gonna do!?"
 
